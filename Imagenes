@@ -1,1 +1,7 @@
-
+isla-matematica/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── logo-isla-matematica.png
+    └── fondo-jungla.jpg
